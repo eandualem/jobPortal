@@ -1,0 +1,8 @@
+#content {
+    overflow: hidden;
+}
+
+#login {
+    float: left;
+    width: 30%;
+}
