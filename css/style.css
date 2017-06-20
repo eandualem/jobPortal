@@ -1,3 +1,14 @@
+body {
+    margin: 0px 124px;
+}
+
+.carousel {
+    height: 240px;
+}
+
+.navbar-default {
+    margin-bottom: 0px;
+}
 #content {
     overflow: hidden;
 }
@@ -9,4 +20,24 @@
 
 #promo {
     float: left;
+}
+
+.carousel {
+    position: relative;
+}
+
+#login {
+    margin: 32px 12px;
+}
+
+#promo {
+    margin: 32px 0px 12px 24px;
+}
+
+.checkbox span {
+    padding-left: 16px;
+}
+
+footer {
+    BACKGROUND-COLOR: ALICEBLUE;
 }
